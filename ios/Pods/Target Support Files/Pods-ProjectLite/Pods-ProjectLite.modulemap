@@ -1,0 +1,6 @@
+module Pods_ProjectLite {
+  umbrella header "Pods-ProjectLite-umbrella.h"
+
+  export *
+  module * { export * }
+}

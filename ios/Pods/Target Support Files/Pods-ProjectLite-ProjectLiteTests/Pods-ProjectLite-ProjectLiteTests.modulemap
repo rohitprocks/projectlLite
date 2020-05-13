@@ -1,0 +1,6 @@
+module Pods_ProjectLite_ProjectLiteTests {
+  umbrella header "Pods-ProjectLite-ProjectLiteTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
